@@ -9,4 +9,4 @@ On June 1st-4th the initial version of Shifting Spectrums was intalled at a loca
 This version had just one of the hexagons, and no touch controller. We were using WLED to drive the LEDs and created a playlist of suble effects
 that ran for 3 days creating a calming space to sit back and enjoy the lights.
 
-![hexagon loaded into the van for transport to Art Baer](../../static/images/packed_into_thevan_artbear.jpeg)
+![hexagon loaded into the van for transport to Art Baer](/img/packed_into_thevan_artbear.jpg#500x)

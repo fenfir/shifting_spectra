@@ -1,0 +1,5 @@
+{{ $imgSizeFragment := (urls.Parse .Destination).Fragment }}
+{{ $imgSizeX := index (split $imgSizeFragment "x") 0 }}
+{{ $imgSizeY := index (split $imgSizeFragment "x") 1 }}
+<img src="{{ .Destination }}" alt="{{ .Text }}" title="{{ .Title }}" {{ with $imgSizeX }}width="{{ . }}" {{ end }} {{
+     with $imgSizeY }}height="{{ . }}" {{ end }} />
