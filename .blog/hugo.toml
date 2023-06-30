@@ -138,7 +138,7 @@ formspree_form_id = "example_invalid"
 [params.social]
 twitter = ""
 mastodon = ""
-github = ""
+github = "fenfir/shifting_spectra"
 facebook = ""
 youtube = ""
 instagram = ""
