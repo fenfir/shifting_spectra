@@ -126,7 +126,7 @@ text = "Learn More"
 special = false
 
 [params.contact]
-enable = true
+enable = false
 title = "Contact"
 body = "Leave us a message."
 phone = "+49 (0) 030 000 000"
