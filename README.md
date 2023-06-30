@@ -3,6 +3,8 @@
 
 Shifting Spectrums is constructed using a series of 3 large hexagonal structures, each of which is made out of wood and embedded with LED lights. The hexagons are designed to be sturdy and visually striking. They are large enough to walk through and are connected to a central control system. When participants touch the control surface and interact with one another, the colors of the LEDs can change in real-time, creating a dynamic and interactive experience that responds to the tactile input from participants. This control system is programmed with various color schemes and patterns, which can be triggered by different types of touch and interaction. The hexagons are arranged in a modular way, allowing for a variety of configurations and layouts depending on the space and context of the installation.
 
+[Build Log](https://fenfir.github.io/shifting_spectra/)
+
 # Artist Statement
 Shifting Spectrums is a multi-sensory experience that explores the relationship between humans and technology. The centerpiece of the installation consists of 3 large hexagonal structures embedded with LED lights, which change color in response to touch by one or multiple people.
 
