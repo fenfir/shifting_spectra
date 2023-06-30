@@ -129,9 +129,9 @@ special = false
 enable = false
 title = "Contact"
 body = "Leave us a message."
-phone = "+49 (0) 030 000 000"
+phone = ""
 address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
-email = "nospam@example.com"
+email = ""
 subject = "New Submission!"
 formspree_form_id = "example_invalid"
 
