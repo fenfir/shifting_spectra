@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://fenfir.github.io/shifting_spectra/"
 title = "Spectral"
 languageCode = "en-us"
 defaultContentLanguage = "en"
