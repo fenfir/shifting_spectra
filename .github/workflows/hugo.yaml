@@ -58,6 +58,7 @@ jobs:
           cd .blog
           hugo \
             --buildDrafts \
+            --verbose \
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
