@@ -1,5 +1,8 @@
 baseURL = "/"
-title = "Spectral"
+relativeURLs = true
+canonifyURLs = true
+
+title = "Shifting Spectrums"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 paginate = "7"
