@@ -13,7 +13,7 @@ The interactive nature of the installation invites everyone to engage with the a
 With Shifting Spectrums, we seek to create a space that encourages exploration, playfulness, and connection. Through the use of technology and tactile engagement, the installation invites visitors to connect with both the natural and digital worlds in new and unexpected ways.
 
 # Components
-## CAD Fils
+## CAD Files
 The [structures](./cad) are parametrically designed using [FreeCAD](https://www.freecad.org/index.php?lang=en)
 
 ## TouchMe Controller
