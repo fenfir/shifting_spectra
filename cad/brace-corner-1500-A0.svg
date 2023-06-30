@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="841mm"
+   height="1189mm"
+   viewBox="0 0 841 1189"
+   version="1.1"
+   id="svg15"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="brace-corner-1500-A0.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview17"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.2102413"
+     inkscape:cx="397.16269"
+     inkscape:cy="561.25984"
+     inkscape:window-width="3840"
+     inkscape:window-height="2075"
+     inkscape:window-x="2256"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs12" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="Sketch003"
+       transform="matrix(0,-1,-1,0,-532.59496,1141.9846)">
+      <path
+         id="Sketch003_w0000"
+         d="m 614.93917,-1081.0091 a 1244.0381,1244.0201 59.818969 0 1 458.17163,452.5054 l 0.023,-0.0135 47.4586,-27.79555 -379.03428,-647.17005 -750.6999155,4.6681 -0.023223,0.013 0.3426897,54.999 a 1244.0381,1244.0201 59.818969 0 1 623.7612988,162.7931 l 0.0232,-0.014 A 1244.0381,1244.0201 59.818969 0 0 -8.7989058,-1243.8157 l -0.3426897,-54.999 m 0.3194667,55.0125 0.023223,-0.014 m 623.7612958,162.7931 a 1244.0381,1244.0201 59.818969 0 1 458.17161,452.5054"
+         stroke="#191919"
+         stroke-width="0.35 px"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+      <title
+         id="title3">b'brace-1500'</title>
+    </g>
+  </g>
+</svg>
