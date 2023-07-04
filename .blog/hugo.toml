@@ -33,29 +33,30 @@ title = "Posts"
 
 [params.one]
 enable = true
-title = 'Arcu aliquet vel lobortis ata nisl<br />eget augue amet aliquet nisl cep donec'
+title = 'Experience a new way of visualizing touch'
 body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
-fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+Touch is an important form of non-verbal communication. A light touch moving down someones arm
+is different that a hug. Shifting Spectrums can show some aspects of this cahnge of sensation
+by modulating the parameters of the lights.
 '''
 
 [[params.one.icon]]
-icon = "fa-gem"
+icon = "fa-handshake"
 style = "1"
 label = "Lorem"
 
 [[params.one.icon]]
-icon = "fa-heart"
+icon = "solid fa-exchange"
 style = "2"
 label = "Ipsum"
 
 [[params.one.icon]]
-icon = "solid fa-code"
+icon = "fa-lightbulb"
 style = "3"
 label = "Dolor"
 
 [params.two]
-enable = true
+enable = false
 
 [[params.two.section]]
 img = "img/pic01.jpg"
@@ -73,7 +74,7 @@ title = 'Magna primis lobortis<br />sed ullamcorper'
 body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
 
 [params.three]
-enable = true
+enable = false
 title = 'Accumsan mus tortor nunc aliquet'
 body = '''
 Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
@@ -111,7 +112,7 @@ title = "Nothing important"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [params.cta]
-enable = true
+enable = false
 title = "Arcue ut vel commodo"
 body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
 
