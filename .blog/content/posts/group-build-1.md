@@ -11,3 +11,6 @@ Amy spent the next couple of days laying down primer and painting the frame with
 ![laying out the wood for the first hexagon](/img/build-1.jpeg#500x)
 
 ![the first hexagon with temporary LEDs installed](/img/temporary_lights.jpeg#500x)
+
+![glitter paint example](/.blog/static/img/glitter_example_build1.jpeg#500x)
+
