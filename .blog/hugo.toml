@@ -35,9 +35,9 @@ title = "Posts"
 enable = true
 title = 'Experience a new way of visualizing touch'
 body = '''
-Touch is an important form of non-verbal communication. A light touch moving down someones arm
-is different that a hug. Shifting Spectrums can show some aspects of this cahnge of sensation
-by modulating the parameters of the lights.
+Touch is an important form of non-verbal communication. A light touch moving down someone's arm
+is different that a hug. Shifting Spectrums maps the dynamics of tactile sensation to color
+by modulating parameters of the LEDs embedded into wooden scultures.
 '''
 
 [[params.one.icon]]
