@@ -17,7 +17,7 @@ We managed to assemble all three hexagons and added some temporary feet for stab
 
 ![Zach assembling with Curtsi](/img/zach_curtsi_assembly_day.jpeg#500x)
 
-![Zach and hexagons 1](/img/zach_3_hex_1_assembly_day.jpeg.jpeg#500x)
+![Zach and hexagons 1](/img/zach_3_hex_1_assembly_day.jpeg#500x)
 
 ![Zach and hexagons 2](/img/zach_3hex_2_assembly_day.jpeg#500x)
 
